@@ -18,6 +18,7 @@ Expected pace vector contains pace values that are calculated using the given in
 3. Plot the expected run, using the time vector and expected pace vector
 
 4. Collect actual running data
+
 After connecting to Matlab Mobile on one’s phone, the computer takes in true running speeds at each time
 
 5. Plot actual running data on the same plot as the expected running data
