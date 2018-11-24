@@ -12,8 +12,7 @@ The project contains 5 major tasks:
 The computer prompts for expected average pace, mileage, intensity, time and lengths of breaks, as well as increases and decreases in starting and ending speed.
 
 2. Calculate time and expected pace vectors:
-Time vector has 10 evenly spaced time intervals between the start and end of the run
-
+Time vector has 10 evenly spaced time intervals between the start and end of the run;
 Expected pace vector contains pace values that are calculated using the given information.
 
 3. Plot the expected run, using the time vector and expected pace vector
